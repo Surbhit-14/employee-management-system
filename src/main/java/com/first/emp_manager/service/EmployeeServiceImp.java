@@ -1,10 +1,14 @@
-package com.first.emp_manager;
+package com.first.emp_manager.service;
 
 import java.util.List;
 
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import com.first.emp_manager.entity.EmployeeEntity;
+import com.first.emp_manager.model.Employee;
+import com.first.emp_manager.repository.EmpRepo;
 
 @Service
 public class EmployeeServiceImp implements EmployeeService{

@@ -1,4 +1,4 @@
-package com.first.emp_manager;
+package com.first.emp_manager.controller;
 
 import java.util.List;
 
@@ -7,6 +7,11 @@ import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
+
+import com.first.emp_manager.entity.EmployeeEntity;
+import com.first.emp_manager.model.Employee;
+import com.first.emp_manager.service.EmployeeService;
+
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 

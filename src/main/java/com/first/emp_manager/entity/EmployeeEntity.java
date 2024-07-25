@@ -1,4 +1,4 @@
-package com.first.emp_manager;
+package com.first.emp_manager.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

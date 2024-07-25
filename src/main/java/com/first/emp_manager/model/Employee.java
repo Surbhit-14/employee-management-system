@@ -1,4 +1,4 @@
-package com.first.emp_manager;
+package com.first.emp_manager.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

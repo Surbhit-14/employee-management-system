@@ -1,6 +1,9 @@
-package com.first.emp_manager;
+package com.first.emp_manager.service;
 
 import java.util.List;
+
+import com.first.emp_manager.entity.EmployeeEntity;
+import com.first.emp_manager.model.Employee;
 
 public interface EmployeeService {
 
