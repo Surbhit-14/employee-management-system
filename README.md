@@ -20,7 +20,8 @@ Integration: Potential integration with Angular for a full-stack application exp
 Clone the repository and configure MySQL database settings in application.properties.<br>
 Build and run the application using Maven or Gradle.<br>
 Access the API endpoints using tools like Postman.<br>
-Explore and contribute to the project to enhance functionality and usability.<br><br>
+Explore and contribute to the project to enhance functionality and usability.<br>
+Change username, database name and password of mysql database in application.property file in resourses<br><br>
 
 **Contributions:**
 Contributions are welcome! Whether you're interested in adding new features, fixing bugs, or improving documentation, your contributions can help make this project even better.
